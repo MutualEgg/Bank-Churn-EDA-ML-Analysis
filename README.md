@@ -80,7 +80,6 @@ These findings help identify potential weaknesses in the model and guide further
 - Matplotlib and Seaborn
 - scikit-learn
 - XGBoost
-- Jupyter Notebook
 
 ## Project Structure
 
